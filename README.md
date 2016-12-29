@@ -1,27 +1,15 @@
-# ember-cli-search
+# Ember Cli Search
 
-This README outlines the details of collaborating on this Ember addon.
+This addon adds the `search` command to ember-cli. Now you can run ember search addonName to find your favorite addon.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd ember-cli-search`
-* `npm install`
-* `bower install`
+```
+ember install ember-cli-search
+```
 
-## Running
+## Searching
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-
-## Running Tests
-
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+```
+ember search ember-cli-fastboot
+```
