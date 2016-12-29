@@ -1,4 +1,4 @@
-# Ember Cli Search
+# Ember-cli Search
 
 This addon adds the `search` command to ember-cli. Now you can run ember search addonName to find your favorite addon.
 
