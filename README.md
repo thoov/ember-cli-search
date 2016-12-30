@@ -1,6 +1,6 @@
-# Ember-cli Search
-
-This addon adds the `search` command to ember-cli. Now you can run ember search addonName to find your favorite addon.
+<p align="center">
+![gif](https://i.imgur.com/bsDzIkT.gif)
+</p>
 
 ## Installation
 
@@ -13,3 +13,8 @@ ember install ember-cli-search
 ```
 ember search ember-cli-fastboot
 ```
+
+**Note: **
+
+This will only work within an existing ember project. I will be porting this into ember-cli core as a native command
+soon.
