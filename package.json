@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-search",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Ember addon which adds the ember-cli command `search`",
   "keywords": [
     "ember-addon"
