@@ -14,7 +14,7 @@ ember install ember-cli-search
 ember search ember-cli-fastboot
 ```
 
-**Note: **
+**Note**
 
 This will only work within an existing ember project. I will be porting this into ember-cli core as a native command
 soon.
