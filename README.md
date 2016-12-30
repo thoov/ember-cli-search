@@ -1,5 +1,5 @@
 <p align="center">
-![gif](https://i.imgur.com/bsDzIkT.gif)
+  <img src="https://i.imgur.com/bsDzIkT.gif" />
 </p>
 
 ## Installation
