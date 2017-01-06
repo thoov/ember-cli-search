@@ -22,8 +22,7 @@
     "core-object": "^2.0.6",
     "date-fns": "^1.22.0",
     "ember-cli-babel": "^5.1.7",
-    "node-fetch": "^1.6.3",
-    "rsvp": "^3.3.3"
+    "node-fetch": "^1.6.3"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
