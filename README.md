@@ -12,9 +12,8 @@ addons within the community:
 ember search --addon 'i18n'
 ```
 
-<p align="center">
-  <img src="http://i.imgur.com/h9cl9K0.gif" />
-</p>
+<img src="http://i.imgur.com/h9cl9K0.gif" />
+
 
 ## Code Discovery
 
@@ -27,9 +26,8 @@ addons which are using one of these hooks:
 ember search --code 'treeForPublic'
 ```
 
-<p align="center">
-  <img src="http://i.imgur.com/MmDHeOn.gif" />
-</p>
+<img src="http://i.imgur.com/MmDHeOn.gif" />
+
 
 ## Code Exploration
 
@@ -40,9 +38,8 @@ must supply the exact addon name via --addon.
 ember search --addon 'ember-intl' --code 'treeForPublic'
 ```
 
-<p align="center">
-  <img src="http://i.imgur.com/N74G40q.gif" />
-</p>
+<img src="http://i.imgur.com/N74G40q.gif" />
+
 
 ### Shortcuts
 
