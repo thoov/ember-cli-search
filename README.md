@@ -12,6 +12,10 @@ addons within the community:
 ember search --addon 'i18n'
 ```
 
+<p align="center">
+  <img src="http://i.imgur.com/h9cl9K0.gif" />
+</p>
+
 ## Code Discovery
 
 The code discovery mode allows you to search all addons that contain a given code snippet. This is great to find other
@@ -23,6 +27,10 @@ addons which are using one of these hooks:
 ember search --code 'treeForPublic'
 ```
 
+<p align="center">
+  <img src="http://i.imgur.com/MmDHeOn.gif" />
+</p>
+
 ## Code Exploration
 
 The last mode is code exploration. This allows you to see actual code diffs based on that code snippet. Note that we
@@ -31,6 +39,10 @@ must supply the exact addon name via --addon.
 ```
 ember search --addon 'ember-intl' --code 'treeForPublic'
 ```
+
+<p align="center">
+  <img src="http://i.imgur.com/N74G40q.gif" />
+</p>
 
 ### Shortcuts
 
